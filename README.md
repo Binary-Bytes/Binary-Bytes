@@ -6,7 +6,7 @@
   <p align="center">
   <a href="https://github.com/Binary-Bytes" target="blank">
     <img align="center" 
-     src="https://komarev.com/ghpvc/?username=Binary-Bytes&style=for-the-badge&label=PROFILE+VIEWS+(since+19MAY2024)" height="25"
+     src="https://komarev.com/ghpvc/?username=Binary-Bytes&style=for-the-badge&label=PROFILE+VIEWS+(since+9MAY2024)" height="25"
      alt="views count" />
   </a>
   </p>
