@@ -19,6 +19,8 @@
   💻 Check out my repositories for interesting projects
 
   💬 DM me on discord for contact **`bedrockgranny`**
+  
+  📭 Mail me for contact **`binarybytes0011@gmail.com`**
 
   ⚡ Never use light mode because light attracts bugs 🪲!
   
