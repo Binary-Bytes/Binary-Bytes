@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  🐍 Currently exploring **Python**
+  👨‍💻 Currently exploring **CP**
 
   💻 Check out my repositories for interesting projects
 
